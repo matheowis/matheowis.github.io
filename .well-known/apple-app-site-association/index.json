@@ -3,6 +3,13 @@
     "apps": [],
     "details": [
       {
+        "appID": "XHQ4U34DW7.com.wisniowskib2c",
+        "paths": [
+          "NOT /_/*",
+          "/*"
+        ]
+      },
+      {
         "appID": "XHQ4U34DW7.com.example.nailBook",
         "paths": [
           "NOT /_/*",
